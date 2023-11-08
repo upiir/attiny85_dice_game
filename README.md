@@ -21,6 +21,7 @@ Links from the video:
 - Previous project with ATTINY85: https://wokwi.com/projects/378925799915970561
 - Image2cpp (convert array to image): https://javl.github.io/image2cpp/
 - Photopea (online graphics editor like Photoshop): https://www.photopea.com
+- Additional Boards URL: https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
 
 Videos using ATtiny85 chip: https://www.youtube.com/playlist?list=PLjQRaMdk7pBbt-is-fkRmUoRcV4dzraYH
 
