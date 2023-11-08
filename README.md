@@ -15,7 +15,8 @@ Links from the video:
 - ATtiny85 chip: https://s.click.aliexpress.com/e/_DeT7tBh
 - Arduino UNO: https://s.click.aliexpress.com/e/_AXDw1h
 - Arduino prototyping shield: https://s.click.aliexpress.com/e/_ApbCwx
-- Avrdudess (uploading HEX file to Arduino): https://blog.zakkemble.net/avrdudess-a-gui-for-avrdude/
+- 128x64 SSD1306 OLED Display 1.54": https://s.click.aliexpress.com/e/_DCYdWXb
+- Colorful breadboards: https://s.click.aliexpress.com/e/_DmQH8V9
 - U8X8 Documentation: https://github.com/olikraus/u8g2/wiki/u8x8reference
 - Previous project with ATTINY85: https://wokwi.com/projects/378925799915970561
 - Image2cpp (convert array to image): https://javl.github.io/image2cpp/
