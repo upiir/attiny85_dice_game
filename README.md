@@ -8,7 +8,7 @@ Finally, when it´s time to upload the project on the ATtiny85 chip, we need som
 
 **YOUTUBE video: https://youtu.be/RmhiZg_6-Mo**
 
-**WOKWI project: XXX**
+**WOKWI project: https://wokwi.com/projects/380812233514546177**
 
 
 Links from the video:
